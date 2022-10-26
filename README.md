@@ -1,2 +1,2 @@
 # Python_Bits
-Code for creating upset plots from Orthofinder tool results
+A repository containing code snippets for various bioinformatics analyses (taken from my own thesis project)
