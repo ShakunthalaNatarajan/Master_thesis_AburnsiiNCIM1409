@@ -5,3 +5,4 @@
 4. Process_blast_results_alternaria_camptotheca.py, process_blast_campto_vs_nimmo_leaf.py, process_blast_results_alternaria_nimmoniana_leaf.py, process_blast_results_alternaria_nimmoniana_root.py, process_blast_results_alternaria_nimmoniana_stem.py, process_blast_results_alternaria_nimmoniana_lrs.py, process_blast_alternaria_candidates(1).py - python codes written for analyzing and processing results of BLASTp done with host plant and endophyte
 5. Statistics_gene_prediction.py - pyhton code for obtaining some information on statistics of gene prediction performed
 6. avg_prot_length.py- Script to calculate the average protein sequence length in a fasta file containing peptide sequences
+7. process_blast_results_v2.py - Custom script to analyze and process the BLASTp results of plant vs endophyte sequences and help investigate for the occurrence of horizontal gene transfer
