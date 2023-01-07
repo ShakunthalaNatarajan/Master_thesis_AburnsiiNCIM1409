@@ -6,3 +6,4 @@
 5. Statistics_gene_prediction.py - pyhton code for obtaining some information on statistics of gene prediction performed
 6. avg_prot_length.py- Script to calculate the average protein sequence length in a fasta file containing peptide sequences
 7. process_blast_results_v2.py - Custom script to analyze and process the BLASTp results of plant vs endophyte sequences and help investigate for the occurrence of horizontal gene transfer
+8. Gene_duplications_synteny_v2.py - Custom script to find the gene duplications in A. burnsii from multiple pairwise synteny comparisons with closely related Alternaria fungi
